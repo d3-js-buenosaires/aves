@@ -4,6 +4,7 @@ aves
 flash --> d3.js (a mano, no crean que es automático)
 
 El SWF original --> http://www.atlasdebuenosaires.gov.ar/aaba/images/stories/tematicas/biota/aves/swf/aves.swf
+y su version en ingles --> http://www.atlasdebuenosaires.gov.ar/aaba/images/stories/tematicas/biota/aves/swf/aves_en.swf
 
 La idea es traducir el .swf que se encuentra en esta página: http://www.atlasdebuenosaires.gov.ar/aaba/index.php?option=com_content&task=view&id=95&Itemid=51&lang=es
 y dejarlo en un formato mas moderno, usando d3.js
