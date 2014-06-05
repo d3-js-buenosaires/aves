@@ -1,15 +1,14 @@
 aves
 ====
 
-flash --> d3.js (a mano, no crean que es automático)
-
-La idea es traducir el .swf que se encuentra en esta página: http://www.atlasdebuenosaires.gov.ar/aaba/index.php?option=com_content&task=view&id=95&Itemid=51&lang=es
-y dejarlo en un formato mas moderno, usando d3.js
-
-Los sonidos que seguramente estan en .wav asi que estaría bueno pasarlos a .ogg y usar el tag 'audio' de html5
-
-Pensar como vamos a estructurar todo el material de esa pagina (un archivo JSON o una planilla de GoogleDocs?)
-
-Conseguir el link a la wikipedia (para cada ave)
+flash --> d3.js
 
 Aca vamos a poner, todos los elementos de proyecto original, desarrollado en flash
+
+Es decir, el .swf, el .fla, las imagenes, los textos, los sonidos, etc.
+
+Este repositorio es para jap400
+
+Saludos,
+
+AAizemberg
