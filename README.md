@@ -12,4 +12,4 @@ Pensar como vamos a estructurar todo el material de esa pagina (un archivo JSON 
 
 Conseguir el link a la wikipedia (para cada ave)
 
-... etc ...
+Aca vamos a poner, todos los elementos de proyecto original, desarrollado en flash
